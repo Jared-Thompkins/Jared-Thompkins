@@ -6,10 +6,6 @@ I'm Jared, a Full Stack Developer passionate about creating. I spend most of my 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaredthompkins/)
 <br>
 
-- 💻  I am a computer science student at Western Goverors Univeristy.
-- 🌎 I'm interested in building products that positively affect people.
-- ⚾️ Fun fact: I am a former Division II baseball player.
-
 
 ---
 
