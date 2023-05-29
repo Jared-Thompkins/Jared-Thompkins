@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 
-I'm Jared, a Full Stack Developer passionate about creating. I spend most of my time working on projects, attending class, and learning new technologies. Feel free to reach out!
+I'm Jared, a Full Stack Developer passionate about creating. I spend most of my time attending class, working on projects, and learning new technologies. Feel free to reach out!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaredthompkins/)
 <br>
