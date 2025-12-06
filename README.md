@@ -3,4 +3,4 @@ Bitbucket > 😶
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaredthompkins/)
 
-Check out an app I solo built on the App Store: purecamera.app
+Check out an app I solo built on the App Store: [purecamera.app](https://purecamera.app)
